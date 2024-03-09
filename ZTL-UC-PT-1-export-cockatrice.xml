@@ -1,0 +1,2713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname>Zeavis — Tunther’s Landing</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>UU01 —  All-Seeing Acolyte</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, scry 1.</text>
+    </card>
+    <card>
+      <name>UU04 — Watcher of Many Minds</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Sphinx Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Watcher enters, look at the top three cards of target players library. You may choose to place any number of them in their owner’s graveyard.</text>
+    </card>
+    <card>
+      <name>CA11 — Evolving Wilds</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>UU11 — Mapping Algorithm</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top card of your opponents library. You may play that card this turn as if any mana was used to cast it.</text>
+    </card>
+    <card>
+      <name>UB10 — The Fall of the Rats</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>M</colors>
+        <manacost>3B // UB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga  // </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice it after III.)
+I — Target creature you don’t control gains -4/-4 until end of turn.
+II — Until end of turn, up to four target creatures you control gain +1/+1 and one target creature you control gains -4/-4.
+III — Return target creature card from your graveyard to your hand.
+--- 
+</text>
+    </card>
+    <card>
+      <name>UR10 — The Runners War</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice it after III.)
+I — Discard up to four cards, then draw that many cards.
+II — Deal 1 damage to up to four creatures.
+III — Create two colorless 3/3 Construct artifact creature tokens.</text>
+    </card>
+    <card>
+      <name>UW10 — The Revival</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice it after III.)
+I — Gain 5 life.
+II — Create 4 1/1 white Warrior creature tokens.
+III — Destroy target creature with power 4 or greater.</text>
+    </card>
+    <card>
+      <name>UG10 — Tale of the Gardener</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice it after III.)
+I — Mill 4 cards. Create a Treasure token for each creature card milled this way.
+II — Place a +1/+1 counter on each creature you control with power 4 or greater.
+III — Target creature you control fights another creature.</text>
+    </card>
+    <card>
+      <name>CW13 — Shut Down</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment. If the target is an artifact creature, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>CW04 — Call For Backup</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two white and black 1/1 Mercenary creature tokens.</text>
+    </card>
+    <card>
+      <name>CW10 — Lone Hero</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever a creature you control dies, Lone Hero gets +1/+0.</text>
+    </card>
+    <card>
+      <name>UM02 — Big Jarko, Gunner</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Vampire Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reserves 1. (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)
+Other Mercenary creatures you control gain +1/+1.</text>
+    </card>
+    <card>
+      <name>CW06 — Bearer of the Future</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a card from exile, you gain 1 life.
+2WW: Target creature gains flying.</text>
+    </card>
+    <card>
+      <name>CW15 — Midnight Raid</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control gain +2/+1 until the end of your turn. If you control four or more tokens, they get +3/+2 instead.</text>
+    </card>
+    <card>
+      <name>CW03 — Precog Priest</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Foretell {W} 
+Whenever Precog Priest enters, if it was foretold, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CW07 — Bloody Enforcer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, first strike
+2W: Bloody Enforcer gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>CW09 — Blessed Bishop</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Equipment spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>CW05 — Skybound Scouts</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Reserves 1 (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CW12 — Squad Captain</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reserves 3 (When this creature dies, create three 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CW02 — Weaver Initiate</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an equipment enters under your control, Weaver Initiate gains a +1/+1 counter.</text>
+    </card>
+    <card>
+      <name>CW11 — Mod Weaver</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Equipped creatures you control get +1/+1 and have flying.</text>
+    </card>
+    <card>
+      <name>CW01 — Squad Mascot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+1W, Sacrifice Squad Mascot: Destroy target enchantment.</text>
+    </card>
+    <card>
+      <name>CW14 — Worse Than Death</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Foretell 1W
+Exile target tapped creature. If this spell was foretold, exile target creature.</text>
+    </card>
+    <card>
+      <name>CW16 — Angelic Implants</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+2 and gains flying.
+Equip 1W (1W: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>UW11 — Drop Beacon</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gains: “Whenever this creature attacks, create a white and black 1/1 Mercenary creature token.”
+Equip {W} ({W}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CW18 — Stasis Field</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Foretell {W}
+Enchant creature
+Enchanted creature can’t attack, block, or crew vehicles.</text>
+    </card>
+    <card>
+      <name>CU02 — Holy Amalgam</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you have eight or more cards in your graveyard, Holy Amalgam gets +2/+2 and hexproof.</text>
+    </card>
+    <card>
+      <name>CU03 — Curious Pilot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature crews vehicles as if its power were 2 greater.
+When Curious Pilot crews a vehicle, that vehicle gains “Whenever this vehicle deals combat damage to a player, scry 2.”</text>
+    </card>
+    <card>
+      <name>CU04 — Workshop Defender</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever Workshop Defender enters, target creature gains -X/+0 until end of turn, where X is the amount of permanents with oil counters on them you control.</text>
+    </card>
+    <card>
+      <name>CU05 — Cyber-Oracle</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foretell {U}
+Whenever you cast an card from exile, scry 1.</text>
+    </card>
+    <card>
+      <name>CU06 — Soaring Pilot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pilot  // Enchantment - Pilot Aura </type>
+        <maintype>Creature</maintype>
+    <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature crews vehicles as if its power were 2 greater.
+Whenever Soaring Pilot crews a vehicle, that vehicle gains flying until end of turn.
+--- 
+Enchant Mech.
+Enchanted Mech gains flying.</text>
+    </card>
+    <card>
+      <name>CU07 — PAL1dn Drone</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When PAL1dn Drone enters, put a shield counter on another target creature you control.</text>
+    </card>
+    <card>
+      <name>CU09 — Walking Databank</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Walking Databank deals combat damage to a player, draw a card.
+Crew 3</text>
+    </card>
+    <card>
+      <name>CU10 — Excommunication</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Foretell {U}
+Return target creature to its owner’s hand. If this was foretold, return target nonland permanent to its owner’s hand instead.</text>
+    </card>
+    <card>
+      <name>CU11 — Data Communion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards unless you discard an artifact card.
+Flashback 4U</text>
+    </card>
+    <card>
+      <name>CU12 — Countermeasures</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one: 
+• Counter target spell. 
+• Put two oil counters on target creature.</text>
+    </card>
+    <card>
+      <name>CU13 — Predicted Outcome</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller pays {2}, plus an additional {1} for each artifact you control.</text>
+    </card>
+    <card>
+      <name>CU14 — Forced Upload</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. Target creature does not untap during its controllers upkeep.
+Flashback 2U</text>
+    </card>
+    <card>
+      <name>CU15 — Deus Ex-Machina</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
+    </card>
+    <card>
+      <name>CB01 — Disposable Agent</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice Disposable Agent: Target opponent discards a card. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CB03 — Parasitic Drone</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+1B, Sacrifice a creature: Parasitic Drone gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CB05 — Recruiting Sargeant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you have eight or more cards in your graveyard, Recruiting Sargeant has reserves 2 instead.
+Reserves 1 (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CB06 — Agressive Negotiator</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, Backstab {B} (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+When Agressive Negotiator is turned face-up, it gets +3/+1.</text>
+    </card>
+    <card>
+      <name>CB07 — Tun2 Assassin</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Backstab {B} (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+When Tun2 Assassin is turned face-up, target creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CB08 — Drop Squad</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reserves 2 (When this creature dies, create two 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CB09 — Sacrificed Soldiers</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Sacrificed Squad or a creature you control dies, target player loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB10 — Seasoned Saboteur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, Backstab 2B
+When this card is turned face up, it gains: “Whenever Seasoned Saboteur deals combat damage to a player, target player discards a card.”</text>
+    </card>
+    <card>
+      <name>CB11 — Ruthless Execution</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target nonartifact creature with mana value equal to or less than 3.</text>
+    </card>
+    <card>
+      <name>CB12 — Left For Dead</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target artifact or creature from your graveyard to your hand. (extra effect?)
+Flashback: 3B</text>
+    </card>
+    <card>
+      <name>CB13 — Reckless Strike</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this card, you may sacrifice a creature.
+Target creature gets -2/-2 until end of turn. If you sacrificed a creature, it gets -X/-X instead, where X is the amount of creature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>CB14 — Gather Intel</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature. Surveil 2, then draw two cards.
+Flashback 3BB</text>
+    </card>
+    <card>
+      <name>CB15 — Call for Backup</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+1 and Reserves 1 until end of turn. (When that creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CB16 — Take Them Out</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. You lose 2 life.</text>
+    </card>
+    <card>
+      <name>CB17 — Cargo Sabotage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may sacrifice a creature.
+Target opponent discards a card or loses 2 life. If you sacrifice a creature, target opponent does both.</text>
+    </card>
+    <card>
+      <name>CB18 — Gather Allies</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets a +1/+1 counter for each nonland permanent card in your graveyard.</text>
+    </card>
+    <card>
+      <name>CR01 — Greedy Corsair</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plunder {R} (Whenever This creature deals combat damage to a player, gain {R}. Until end of turn, you don’t lose this mana as steps and phases end.)
+When Greedy Corsair dies, deal 1 damage to target creature.</text>
+    </card>
+    <card>
+      <name>CR02 —Reckless Marauders</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Alien Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reckless Marauders has first strike as long as its attacking.
+{2}, Sacrifice Reckless Marauders: Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>CR03 — Vacuum Runner</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Plunder {R} (Whenever This creature deals combat damage to a player, gain {R}. Until end of turn, you don’t lose this mana as steps and phases end.)</text>
+    </card>
+    <card>
+      <name>CR05 — Space Raider</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Minotaur Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Space Raider deals combat damage to a player, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CR06 — Rainmaker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever Rainmaker blocks a creature with flying, it gains an oil counter.
+If Rainmaker has 3 or more oil counters, it gets +3/+2.</text>
+    </card>
+    <card>
+      <name>CR08 — Furious Fighter</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Alien Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you sacrifice a creature, Furious Fighter gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR10 — Loyal Crew</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Alien Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Plunder RRR (Whenever This creature deals combat damage to a player, gain RRR. Until end of turn, you don’t lose this mana as steps and phases end.)
+Whenever Loyal Crew deals combat damage to a player, place a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>CR11 — Missile Barrage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Deal 3 damage to a target. If you attacked this turn, deal 4 damage instead.</text>
+    </card>
+    <card>
+      <name>CR13 — Update Blueprints</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard up to 3 cards, then draw that many cards plus one. Place an oil counter on target permanent.</text>
+    </card>
+    <card>
+      <name>CR14 — Artifact Overcharge</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost, you may choose to sacrifice a creature. 
+Deal 2 damage to target creature. If you sacrifice a creature, deal 4 damage instead.</text>
+    </card>
+    <card>
+      <name>CR16 — Thermite Casing</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Target creature gets +2/+0. Unequip Thermite Casing at the beginning of your end step.
+Equip {R}</text>
+    </card>
+    <card>
+      <name>CR17 — Backup Battery</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Target creature gets +2/+1 and “Whenever a creature you control dies, deal 1 damage to target opponent.”
+Equip 1R</text>
+    </card>
+    <card>
+      <name>CG01 — Garden Maker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+3G, Exile a card from your graveyard: Gain 2 life.</text>
+    </card>
+    <card>
+      <name>CG02 — Scrap Salvager</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plunder {G} (Whenever This creature deals combat damage to a player, gain {G}. Until end of turn, you don’t lose this mana as steps and phases end.)
+3G: Scrap Salvager gets +3/+3.</text>
+    </card>
+    <card>
+      <name>CG04 — Xeno Tamer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Xeno Tamer enters, create a 2/2 green Beast creature token with Vigilance.</text>
+    </card>
+    <card>
+      <name>CG05 — Brawl Champion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Orc Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plunder {G} (Whenever This creature deals combat damage to a player, gain {G}. Until end of turn, you don’t lose this mana as steps and phases end.)
+Whenever Brawl Champion deals combat damage to a player, place a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>CG06 — Aerial Saboteur</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+If Aerial Saboteur blocks or is blocked by a creature with flying, it gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>CG07 — Ground Control</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Ground Control deals combat damage to a player, create a 1/1 green and red Pirate creature token with Plunder {G}. (Whenever This creature deals combat damage to a player, gain {G}. Until end of turn, you don’t lose this mana as steps and phases end.)</text>
+    </card>
+    <card>
+      <name>CG08 — Void Chemist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Backstab {G} (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+Whenever Void Chemist is turned face-up, gain 2 life and draw a card.</text>
+    </card>
+    <card>
+      <name>CG09 — Arcadian Corsair</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Construct Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+2GG: Target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>CG10 — Mulchmaker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, Trample, Backstab {G} (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+Whenever Mulchmaker is flipped face up, target creature you control gains “{T}: Add GG.”</text>
+    </card>
+    <card>
+      <name>CG11 — The Rejuvinator</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample
+Whenever The Rejuvinator enters, gain life equal to the greatest toughness among other creatures you control.
+Crew 4</text>
+    </card>
+    <card>
+      <name>CG12 — Privateer Mech</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, Privateer Mech gets a +1/+0 counter.
+Crew 3</text>
+    </card>
+    <card>
+      <name>CG14 — Fake Your Death</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target card from your graveyard to your hand. If it is a creature, it gains backstab BG. (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)</text>
+    </card>
+    <card>
+      <name>CG15 —  Illegal Enhancement</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CG16 — Take What&apos;s Ours!</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to another creature. If that creature would die, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CG17 — Turn to Scrap</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact, enchantment, or creature with flying. </text>
+    </card>
+    <card>
+      <name>CG18 — Cultivate the Gardens</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, put them into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>CA09 — Latun&apos;s Knife</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has menace.
+{3}, Sacrifice Latun’s Knife: Return target creature card from your graveyard to your hand.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA02 — Holographic Assistant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Holographic Assistant dies, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CA08 — Mining Suit</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has “{T}: Add {C}”.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CA05 — Repair Robot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Crew 3</text>
+    </card>
+    <card>
+      <name>CA07 — Grand Plaza</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Grand Plaza enters tapped. 
+When Grand Plaza enters, choose a color.
+{T}: Add 1 mana of the chosen color.</text>
+    </card>
+    <card>
+      <name>CA10 — Assembly Pad</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{3}, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CA03 — Mech Operator</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature crews Vehicles as if its power were 2 greater.
+Whenever Mech Operator crews a Vehicle, that Vehicle gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CA06 — Mana Battery</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mana Battery enters the battlefield, scry 2.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CA04 — Catalog Robot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control three or more artifacts, Catalog Robot gets +1/+2.</text>
+    </card>
+    <card>
+      <name>CA01 — Delivery Drone</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature counts as a token for any spells or abilities that rely on tokens.</text>
+    </card>
+    <card>
+      <name>CB02 — Strike Team</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+If you have eight or more cards in your graveyard, Strike Team gets +2/+0.</text>
+    </card>
+    <card>
+      <name>CU01 — Recon Robot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Recon Robot enters with three oil counters.
+{T}, Remove an oil counter from Recon Robot: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>UG11 — Forceful Recruitment</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top 5 cards of your library, then choose a creature card from among them. If you do, put it in your hand, then shuffle. Then, create X 1/1 green and black Assassin creature tokens, where X is the cards mana cost.</text>
+    </card>
+    <card>
+      <name>CW08 — Ruthless Tactician</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a token creature you control dies, gain 1 life. 
+Reserves 1 (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>CG03 — Powerful Pilot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature crews vehicles as if its power were 2 greater.
+Vehicles this creature crews get +1/+1 and trample.</text>
+    </card>
+    <card>
+      <name>CB04 — Secret Broker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you turn a card face-up, Secret Broker gets +1/+1 until end of turn. </text>
+    </card>
+    <card>
+      <name>UW01 — Evolving Priest</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Foretell XW
+UW01 enters with a +1/+1 counter on it. If this spell was foretold, it enters with X +1/+1 counters on it instead.</text>
+    </card>
+    <card>
+      <name>UW09 — Banner of Hope</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control get +1/+1.
+Whenever a nontoken creature you control dies, you may pay {1}. If you do, create a white and black 1/1 Mercenary creature under your control.</text>
+    </card>
+    <card>
+      <name>UW03 — Morale Booster</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever a creature enters under your control, you gain 1 life.
+Reserves 1 (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>UW05 — Forceful Peacemaker</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foretell 1W
+When UW05 enters, if it was foretold, exile target creature with mana value 3 or less until UW05 leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>UW06 —Binzy Commander</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+1W: Create a 1/1 white and black Mercenary creature token.</text>
+    </card>
+    <card>
+      <name>UW07 — Mark of the Squad</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When UW07 enters, create a white and black 1/1 Mercenary creature token and attach UW07 to it.
+Equipped creature gains +X/+X, where X is the number of tokens you control.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UU02 — Pride of the Fleet</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When UU02 enters or attacks, another target Vehicle you control becomes an artifact creature until end of turn.
+Crew 1</text>
+    </card>
+    <card>
+      <name>UU05 — Databank Archivist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+{U}: Exile UU05. You may, on a later turn, cast it for its foretell cost.
+Foretell 1UU</text>
+    </card>
+    <card>
+      <name>UU06 — Sewer Scavenger</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever UU06 attacks, target player mills cards equal to UU06’s power. 
+2U, Exile a card from your graveyard: UU06 gains +X/+0 until end of turn, where X is the mana cost of that card.</text>
+    </card>
+    <card>
+      <name>UU07 — Focus Fire</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• Return each creature with power 4 or greater to its owners hand.
+• Return each creature with power 3 or less to its owners hand.</text>
+    </card>
+    <card>
+      <name>UU08 — See the Eternities</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw X cards, where X is equal to the number of cards you own in exile. </text>
+    </card>
+    <card>
+      <name>UU09 — Saw It Coming</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Foretell 1U
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>UB01 — Assault Trooper</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reserves 1 (When this creature dies, create a 1/1 white and black Mercenary creature tokens.)
+If UB01 is attacking, it has reserves 2 instead.</text>
+    </card>
+    <card>
+      <name>UB02 — Vitality Scavenger</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, target opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>UB03 — Sanguine Striker</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever UB03 attacks, each player mills a card. Then if you have eight or more nonland permanents in your graveyard, whenever UB03 attacks, you draw a card and lose 1 life. </text>
+    </card>
+    <card>
+      <name>UB04 — Local Extortioner</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever UB03 deals combat damage to a player, they may discard a card. If they don’t, create a white and black 1/1 Mercenary creature token under your control. </text>
+    </card>
+    <card>
+      <name>UB05 — Toxin Chemist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Backstab 1B (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+If UB05 was flipped up, it and up to one other target creature you control have deathtouch for as long as you control UB05.</text>
+    </card>
+    <card>
+      <name>UB06 — Dealer of Whispers</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control is flipped face up, you may draw a card. If you do, lose 2 life and your opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>UB07 — Consumer of Souls</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Backstab 1B (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+If this card was turned face up, it gains: “Whenever a creature dies, place a +1/+1 counter on UB07.”</text>
+    </card>
+    <card>
+      <name>UB08 — Go For The Throat</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target nonartifact creature.</text>
+    </card>
+    <card>
+      <name>UB09 — Replacement Clone</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield tapped. It gains reserves 1. (When that creature dies, create a 1/1 white and black Mercenary creature tokens.)</text>
+    </card>
+    <card>
+      <name>UB11 — Seize an Asset</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a creature or artifact card with mana value 4 or less, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>UR01 — Shady Fence</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever UR01 deals combat damage to a player, look at the top card of your library. You may discard it. If you do, create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>UR02 — Hoarding Creator</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>*/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>UR02 has power equal to the number of artifacts you control. 
+2R, {T}: Create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>UR03 — Desperate Gambler</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Minotaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Flip a coin. If you win the flip, create a Treasure token.
+Sacrifice 7 Treasure tokens: If this is the first combat phase of the turn, there is an additional combat phase after this phase.</text>
+    </card>
+    <card>
+      <name>UR04 — Powder Monkey</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Monkey </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Powder Monkey attacks, create a Treasure token.
+2R, Sacrifice an artifact or creature: Powder Monkey deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>UR05 — Slag Eater</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, First strike
+Whenever Slag Eater attacks, put an oil counter on it. 
+Remove 3 oil counters from Slag Eater: Destroy target artifact opponent controls.</text>
+    </card>
+    <card>
+      <name>UR06 —  Asteroid Wurm</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+U602 cannot attack or block unless you control four or more artifacts.</text>
+    </card>
+    <card>
+      <name>UR07 — Cargo Keeper</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Alien Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, you may pay {1} and sacrifice an artifact or creature. If you do so, create a colorless equipment token with “equip {1}” and “Equipped creature gets +1/+1.”</text>
+    </card>
+    <card>
+      <name>UR08 — Firestorm Reactor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have +2/+1.
+Whenever you attack, place an oil counter on UR08. At the beginning of your upkeep, if UR08 has 4 or more oil counters on it, sacrifice it.</text>
+    </card>
+    <card>
+      <name>UR09 — Big Red Button</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Big Red Button deals 3 damage to each creature.</text>
+    </card>
+    <card>
+      <name>UR11 — Shield of Retribution</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Target creature has +1/+1. 
+Whenever equipped creature is dealt damage, it deals damage equal to its power to any target.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UG01 — Tactical Flyboy</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature crews vehicles as if its power were 2 greater.
+Whenever UG01 becomes tapped, untap another target creature you control.</text>
+    </card>
+    <card>
+      <name>UG02 — Corsair Ambusher </name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When UG02 enters, if it was cast during your combat step, it enters tapped and attacking.
+2GG: Place 2 +1/+1 counters on UG02.</text>
+    </card>
+    <card>
+      <name>UG03 — Maker of the Fittest</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever you sacrifice a creature, place a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>UG04 — Mentor of Many</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>X/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+UG04’s power is equal to the amount of token creatures you control.
+Sacrifice a creature, {T}: Create X 1/1 green and black Assassin creature tokens, where X is equal to that creature’s toughness.</text>
+    </card>
+    <card>
+      <name>UG05 — Imposing Cultivator</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever UA02 deals combat damage to a player, draw a card. If it is a land, you may reveal it and place it onto the battlefield tapped.
+Crew 3</text>
+    </card>
+    <card>
+      <name>UG06 — Adapting Killer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Backstab BG (You may cast this card face down as a 2/2 creature for {3}. Sacrifice a creature and pay its backstab cost to turn it face up.)
+If this creature is turned face up, it gains: “At the beginning of your end step, place a +1/+1 counter on UG06.”</text>
+    </card>
+    <card>
+      <name>UG07 — Burrowing Ship</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, Reach</text>
+    </card>
+    <card>
+      <name>UG08 — Beloved Captain</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Alien Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Plunder {G} (Whenever This creature deals combat damage to a player, gain {G}. Until end of turn, you don’t lose this mana as steps and phases end.)
+Whenever a Pirate enters under your control, draw a card.</text>
+    </card>
+    <card>
+      <name>UG09 — Uneasy Alliance</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand. It permanently gains: “Whenever this creature attacks, if it is attacking with exactly one other creature, draw a card.”</text>
+    </card>
+    <card>
+      <name>UW12 — Smokescreen</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Artifacts and creatures you control gain hexproof until end of turn. Prevent all damage that would be dealt this turn from non-artifact sources.</text>
+    </card>
+    <card>
+      <name>UU10 — Gin Sees Beyond</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice it after III.)
+I — Scry 4.
+II — Target creature phases out until the start of your next turn.
+III — Choose a color. All permanents you control have protection from that color until end of turn.</text>
+    </card>
+    <card>
+      <name>UB12 — Corporate Espionage</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You may choose a non-artifact, non-land card. That player discards that card.</text>
+    </card>
+    <card>
+      <name>UR12 — Scoundrel&apos;s Blast</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Deal 2 damage to any target. If a Pirate you control attacked this turn, deal 4 damage instead.</text>
+    </card>
+    <card>
+      <name>UG12 — Performance Enhancers</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control gain +1/+1 and trample until end of turn. Token creatures you control get an additional +1/+1 and vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>UA04 — Replicating Thopter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Thopter </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{4}, {T}: Create a copy of UA04.</text>
+    </card>
+    <card>
+      <name>UA01 — Sentry Scooter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Crew 1</text>
+    </card>
+    <card>
+      <name>UA03 — Confederation Enforcers</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Confederation Enforcers enters, target tapped creature gains a stun counter.</text>
+    </card>
+    <card>
+      <name>UA09 — Otira Industries Exo-Suit</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has +1/+1 and hexproof.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>UA08 — The Clan Council</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This spell costs {1} less to cast for each basic land type among lands you control. 
+Whenever you draw a card, you may reveal it. If you do, scry X, where X is each color symbol in the mana cost of the card.</text>
+    </card>
+    <card>
+      <name>UA07 — Restless Forge</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice a creature: Gain CC.
+Sacrifice a creature token, {1}: Create a colorless 3/3 Construct artifact creature token.</text>
+    </card>
+    <card>
+      <name>UA02 — Construction Skiff</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>XCC: Target Vehicle gains +X/+X until end of turn.
+Crew 3</text>
+    </card>
+    <card>
+      <name>UA05 — Access Datapad</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell with mana value 3 or less, you may pay {2}. If you do so, draw a card.</text>
+    </card>
+    <card>
+      <name>UA10 — Neural Interface</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has +1/+1. If the creature is an artifact, it has +2/+2 and haste instead.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>UM06 — Jeer, Inspired Engineer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact Creatures you control have +1/+1 and enter with an oil counter on them.</text>
+    </card>
+    <card>
+      <name>UM04 — Recruiting Drive</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a token would be created under your control, that many tokens plus one are created instead.
+At the beginning of your end step, if a token was created under your control this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>UM05 — Last of the Rats</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3UB, {T}: Search your library for a spell with mana value equal to or less than the number of nonland permanents in your graveyard, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>UM03 — Training Matrix</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack with one or more equipped creatures, create a 1/1 white Warrior creature token.
+{2}, {T}: Create a colorless Equipment artifact token with equip {1} and “Equipped creature gets +1/+1.”</text>
+    </card>
+    <card>
+      <name>UM01 — Archbishop Li Teain</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WUU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a card from exile, tap target creature.
+Whenever you scry, exile a card from your hand. You may play that card as if any mana were used to cast it.
+{T}, 1WU: Draw a card.</text>
+    </card>
+    <card>
+      <name>UM09 — Laz, The Traitor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Elf Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Backstab costs you pay cost {1} less. 
+1BG: Create a 1/1 black and green Assassin creature token with deathtouch.</text>
+    </card>
+    <card>
+      <name>UM07 — Test Pilot</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof, Ace (This creature crews vehicles as if its power were 2 greater).
+Whenever a Vehicle you control attacks, place a +1/+1 counter upon target creature you control.</text>
+    </card>
+    <card>
+      <name>UM08 — Reckless Killer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature or artifact you control dies, place a +1/+1 counter on Reckless Killer.
+If Reckless Killer has 4 or more +1/+1 counters on it, it gains menace and first strike.</text>
+    </card>
+    <card>
+      <name>UM10 — Captain Wen O&apos;Malli</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Pirate </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All Pirates you control gain trample and “Whenever this creature deals combat damage to a player, draw a card.”</text>
+    </card>
+    <card>
+      <name></name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>CW17 — Nanomachines</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Whenever Nanomachines enters, attach it to target creature you control. 
+Equipped creature gets +2/+2.
+Equip 3W</text>
+    </card>
+    <card>
+      <name>UU03 — Inspired Inventor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an artifact spell, place an oil counter on UU03.
+Remove X oil counters from Inspired Inventor: Scry X.</text>
+    </card>
+    <card>
+      <name>CU08 — Self-Learning Titan</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you crew a vehicle, place an oil counter on Self-Learning Titan.
+{1}, Remove an oil counter: Self-Learning Titan gets a +1/+1 counter until end of turn.
+Crew 2</text>
+    </card>
+    <card>
+      <name>CU16 — Flash of Genius</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw 2 cards. You may reveal an artifact card from your hand. If you do, place an oil counter on target permanent.  
+Flashback 3U</text>
+    </card>
+    <card>
+      <name>CU18 — Oathkeeper Protector</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Oathkeeper Protector can attack as if it didn’t have defender as long as an artifact entered under your control this turn. </text>
+    </card>
+    <card>
+      <name>CU17 — Spark of Knowledge</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Place two oil counters on target creature you control. Target creature gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CG13 — Initate&apos;s Growth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top six cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>CR07 — Unstable Prototype</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Unstable Prototype dies, you may sacrifice a creature. If you do, deal 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>CR09 — Mad Inventor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mad Inventor enters, it deals damage to target creature equal to the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>CR04 — Rampage Robot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rampage Robot has menace as long as it has 3 or more oil counters on it.
+Whenever a creature you control attacks, put an oil counter on Rampage Robot.</text>
+    </card>
+    <card>
+      <name>CR18 — Living Node</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an artifact enters under your control, place an oil counter on target creature.
+Remove an oil counter from equipped creature: Equipped creature gets +1/+0 until end of turn.
+Equip 2R (2R: Attach to target creature you control. Equip only as a sorcery.)</text>
+    </card>
+    <card>
+      <name>CR12 — Spark of Passion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, it gets +X/+X until end of turn, where X is the number of permanents you control with oil counters on them.</text>
+    </card>
+    <card>
+      <name>CR15 — Sudden Airstrike</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains +2/+0 and first strike until end of turn. 
+Create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>UU12 — Mana Disconnection</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Target creature loses all abilities and becomes an Elf Citizen with power and toughness 0/2.</text>
+    </card>
+    <card>
+      <name>UA06 — Scrapyard Scavenger</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you have 4 or more artifact cards in your graveyard, UA06 gets +2/+2 and ward {2}.
+{4}, {T}: Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>UW08 — Serrated Angel</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Angel Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, Vigilance
+Foretell 3W
+If this spell was foretold, when Serrated Angel enters, it deals 1 damage to each creature opponent controls.</text>
+    </card>
+    <card>
+      <name>UW02 — Omniscent Overseer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you scry, tap target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>UW04 — Protective Quartermaster</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Equipped creatures you control have +0+2.
+3W, {T}: Target equipped creature gains indestructible until end of turn.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
