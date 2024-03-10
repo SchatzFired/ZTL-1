@@ -5,7 +5,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU01 —  All-Seeing Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU01 —  All-Seeing Acolyte.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact Creature — Sphinx Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU04 — Watcher of Many Minds.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU04 — Watcher of Many Minds.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA11 — Evolving Wilds.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA11 — Evolving Wilds.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU11 — Mapping Algorithm.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU11 — Mapping Algorithm.png"
 	        }
 	    },
 	    {
@@ -62,7 +62,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR10 — The Runners War.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR10 — The Runners War.png"
 	        }
 	    },
 	    {
@@ -71,7 +71,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW10 — The Revival.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW10 — The Revival.png"
 	        }
 	    },
 	    {
@@ -80,7 +80,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG10 — Tale of the Gardener.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG10 — Tale of the Gardener.png"
 	        }
 	    },
 	    {
@@ -89,7 +89,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW13 — Shut Down.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW13 — Shut Down.png"
 	        }
 	    },
 	    {
@@ -98,7 +98,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW04 — Call For Backup.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW04 — Call For Backup.png"
 	        }
 	    },
 	    {
@@ -107,7 +107,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW10 — Lone Hero.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW10 — Lone Hero.png"
 	        }
 	    },
 	    {
@@ -116,7 +116,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Legendary Creature — Vampire Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM02 — Big Jarko, Gunner.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM02 — Big Jarko, Gunner.png"
 	        }
 	    },
 	    {
@@ -125,7 +125,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW06 — Bearer of the Future.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW06 — Bearer of the Future.png"
 	        }
 	    },
 	    {
@@ -134,7 +134,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW15 — Midnight Raid.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW15 — Midnight Raid.png"
 	        }
 	    },
 	    {
@@ -143,7 +143,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW03 — Precog Priest.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW03 — Precog Priest.png"
 	        }
 	    },
 	    {
@@ -152,7 +152,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Vampire Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW07 — Bloody Enforcer.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW07 — Bloody Enforcer.png"
 	        }
 	    },
 	    {
@@ -161,7 +161,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW09 — Blessed Bishop.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW09 — Blessed Bishop.png"
 	        }
 	    },
 	    {
@@ -170,7 +170,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW05 — Skybound Scouts.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW05 — Skybound Scouts.png"
 	        }
 	    },
 	    {
@@ -179,7 +179,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Vampire Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW12 — Squad Captain.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW12 — Squad Captain.png"
 	        }
 	    },
 	    {
@@ -188,7 +188,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW02 — Weaver Initiate.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW02 — Weaver Initiate.png"
 	        }
 	    },
 	    {
@@ -197,7 +197,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW11 — Mod Weaver.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW11 — Mod Weaver.png"
 	        }
 	    },
 	    {
@@ -206,7 +206,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW01 — Squad Mascot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW01 — Squad Mascot.png"
 	        }
 	    },
 	    {
@@ -215,7 +215,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW14 — Worse Than Death.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW14 — Worse Than Death.png"
 	        }
 	    },
 	    {
@@ -224,7 +224,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW16 — Angelic Implants.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW16 — Angelic Implants.png"
 	        }
 	    },
 	    {
@@ -233,7 +233,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW11 — Drop Beacon.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW11 — Drop Beacon.png"
 	        }
 	    },
 	    {
@@ -242,7 +242,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW18 — Stasis Field.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW18 — Stasis Field.png"
 	        }
 	    },
 	    {
@@ -251,7 +251,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU02 — Holy Amalgam.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU02 — Holy Amalgam.png"
 	        }
 	    },
 	    {
@@ -260,7 +260,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU03 — Curious Pilot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU03 — Curious Pilot.png"
 	        }
 	    },
 	    {
@@ -269,7 +269,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU04 — Workshop Defender.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU04 — Workshop Defender.png"
 	        }
 	    },
 	    {
@@ -278,7 +278,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU05 — Cyber-Oracle.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU05 — Cyber-Oracle.png"
 	        }
 	    },
 	    {
@@ -308,7 +308,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU07 — PAL1dn Drone.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU07 — PAL1dn Drone.png"
 	        }
 	    },
 	    {
@@ -317,7 +317,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU09 — Walking Databank.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU09 — Walking Databank.png"
 	        }
 	    },
 	    {
@@ -326,7 +326,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU10 — Excommunication.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU10 — Excommunication.png"
 	        }
 	    },
 	    {
@@ -335,7 +335,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU11 — Data Communion.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU11 — Data Communion.png"
 	        }
 	    },
 	    {
@@ -344,7 +344,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU12 — Countermeasures.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU12 — Countermeasures.png"
 	        }
 	    },
 	    {
@@ -353,7 +353,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU13 — Predicted Outcome.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU13 — Predicted Outcome.png"
 	        }
 	    },
 	    {
@@ -362,7 +362,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU14 — Forced Upload.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU14 — Forced Upload.png"
 	        }
 	    },
 	    {
@@ -371,7 +371,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU15 — Deus Ex-Machina.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU15 — Deus Ex-Machina.png"
 	        }
 	    },
 	    {
@@ -380,7 +380,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB01 — Disposable Agent.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB01 — Disposable Agent.png"
 	        }
 	    },
 	    {
@@ -389,7 +389,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB03 — Parasitic Drone.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB03 — Parasitic Drone.png"
 	        }
 	    },
 	    {
@@ -398,7 +398,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB05 — Recruiting Sargeant.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB05 — Recruiting Sargeant.png"
 	        }
 	    },
 	    {
@@ -407,7 +407,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB06 — Agressive Negotiator.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB06 — Agressive Negotiator.png"
 	        }
 	    },
 	    {
@@ -416,7 +416,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB07 — Tun2 Assassin.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB07 — Tun2 Assassin.png"
 	        }
 	    },
 	    {
@@ -425,7 +425,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB08 — Drop Squad.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB08 — Drop Squad.png"
 	        }
 	    },
 	    {
@@ -434,7 +434,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB09 — Sacrificed Soldiers.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB09 — Sacrificed Soldiers.png"
 	        }
 	    },
 	    {
@@ -443,7 +443,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB10 — Seasoned Saboteur.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB10 — Seasoned Saboteur.png"
 	        }
 	    },
 	    {
@@ -452,7 +452,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB11 — Ruthless Execution.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB11 — Ruthless Execution.png"
 	        }
 	    },
 	    {
@@ -461,7 +461,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB12 — Left For Dead.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB12 — Left For Dead.png"
 	        }
 	    },
 	    {
@@ -470,7 +470,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB13 — Reckless Strike.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB13 — Reckless Strike.png"
 	        }
 	    },
 	    {
@@ -479,7 +479,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB14 — Gather Intel.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB14 — Gather Intel.png"
 	        }
 	    },
 	    {
@@ -488,7 +488,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB15 — Call for Backup.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB15 — Call for Backup.png"
 	        }
 	    },
 	    {
@@ -497,7 +497,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB16 — Take Them Out.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB16 — Take Them Out.png"
 	        }
 	    },
 	    {
@@ -506,7 +506,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB17 — Cargo Sabotage.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB17 — Cargo Sabotage.png"
 	        }
 	    },
 	    {
@@ -515,7 +515,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB18 — Gather Allies.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB18 — Gather Allies.png"
 	        }
 	    },
 	    {
@@ -524,7 +524,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR01 — Greedy Corsair.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR01 — Greedy Corsair.png"
 	        }
 	    },
 	    {
@@ -533,7 +533,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Alien Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR02 —Reckless Marauders.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR02 —Reckless Marauders.png"
 	        }
 	    },
 	    {
@@ -542,7 +542,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR03 — Vacuum Runner.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR03 — Vacuum Runner.png"
 	        }
 	    },
 	    {
@@ -551,7 +551,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Minotaur Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR05 — Space Raider.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR05 — Space Raider.png"
 	        }
 	    },
 	    {
@@ -560,7 +560,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR06 — Rainmaker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR06 — Rainmaker.png"
 	        }
 	    },
 	    {
@@ -569,7 +569,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Alien Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR08 — Furious Fighter.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR08 — Furious Fighter.png"
 	        }
 	    },
 	    {
@@ -578,7 +578,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Alien Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR10 — Loyal Crew.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR10 — Loyal Crew.png"
 	        }
 	    },
 	    {
@@ -587,7 +587,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR11 — Missile Barrage.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR11 — Missile Barrage.png"
 	        }
 	    },
 	    {
@@ -596,7 +596,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR13 — Update Blueprints.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR13 — Update Blueprints.png"
 	        }
 	    },
 	    {
@@ -605,7 +605,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR14 — Artifact Overcharge.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR14 — Artifact Overcharge.png"
 	        }
 	    },
 	    {
@@ -614,7 +614,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR16 — Thermite Casing.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR16 — Thermite Casing.png"
 	        }
 	    },
 	    {
@@ -623,7 +623,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR17 — Backup Battery.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR17 — Backup Battery.png"
 	        }
 	    },
 	    {
@@ -632,7 +632,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG01 — Garden Maker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG01 — Garden Maker.png"
 	        }
 	    },
 	    {
@@ -641,7 +641,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG02 — Scrap Salvager.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG02 — Scrap Salvager.png"
 	        }
 	    },
 	    {
@@ -650,7 +650,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG04 — Xeno Tamer.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG04 — Xeno Tamer.png"
 	        }
 	    },
 	    {
@@ -659,7 +659,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Orc Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG05 — Brawl Champion.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG05 — Brawl Champion.png"
 	        }
 	    },
 	    {
@@ -668,7 +668,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG06 — Aerial Saboteur.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG06 — Aerial Saboteur.png"
 	        }
 	    },
 	    {
@@ -677,7 +677,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG07 — Ground Control.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG07 — Ground Control.png"
 	        }
 	    },
 	    {
@@ -686,7 +686,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG08 — Void Chemist.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG08 — Void Chemist.png"
 	        }
 	    },
 	    {
@@ -695,7 +695,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Spirit Construct Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG09 — Arcadian Corsair.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG09 — Arcadian Corsair.png"
 	        }
 	    },
 	    {
@@ -704,7 +704,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG10 — Mulchmaker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG10 — Mulchmaker.png"
 	        }
 	    },
 	    {
@@ -713,7 +713,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG11 — The Rejuvinator.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG11 — The Rejuvinator.png"
 	        }
 	    },
 	    {
@@ -722,7 +722,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG12 — Privateer Mech.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG12 — Privateer Mech.png"
 	        }
 	    },
 	    {
@@ -731,7 +731,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG14 — Fake Your Death.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG14 — Fake Your Death.png"
 	        }
 	    },
 	    {
@@ -740,7 +740,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG15 —  Illegal Enhancement.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG15 —  Illegal Enhancement.png"
 	        }
 	    },
 	    {
@@ -749,7 +749,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG16 — Take What's Ours!.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG16 — Take What's Ours!.png"
 	        }
 	    },
 	    {
@@ -758,7 +758,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG17 — Turn to Scrap.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG17 — Turn to Scrap.png"
 	        }
 	    },
 	    {
@@ -767,7 +767,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG18 — Cultivate the Gardens.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG18 — Cultivate the Gardens.png"
 	        }
 	    },
 	    {
@@ -776,7 +776,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA09 — Latun's Knife.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA09 — Latun's Knife.png"
 	        }
 	    },
 	    {
@@ -785,7 +785,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA02 — Holographic Assistant.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA02 — Holographic Assistant.png"
 	        }
 	    },
 	    {
@@ -794,7 +794,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA08 — Mining Suit.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA08 — Mining Suit.png"
 	        }
 	    },
 	    {
@@ -803,7 +803,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA05 — Repair Robot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA05 — Repair Robot.png"
 	        }
 	    },
 	    {
@@ -812,7 +812,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA07 — Grand Plaza.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA07 — Grand Plaza.png"
 	        }
 	    },
 	    {
@@ -821,7 +821,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA10 — Assembly Pad.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA10 — Assembly Pad.png"
 	        }
 	    },
 	    {
@@ -830,7 +830,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA03 — Mech Operator.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA03 — Mech Operator.png"
 	        }
 	    },
 	    {
@@ -839,7 +839,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA06 — Mana Battery.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA06 — Mana Battery.png"
 	        }
 	    },
 	    {
@@ -848,7 +848,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA04 — Catalog Robot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA04 — Catalog Robot.png"
 	        }
 	    },
 	    {
@@ -857,7 +857,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CA01 — Delivery Drone.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CA01 — Delivery Drone.png"
 	        }
 	    },
 	    {
@@ -866,7 +866,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB02 — Strike Team.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB02 — Strike Team.png"
 	        }
 	    },
 	    {
@@ -875,7 +875,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU01 — Recon Robot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU01 — Recon Robot.png"
 	        }
 	    },
 	    {
@@ -884,7 +884,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG11 — Forceful Recruitment.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG11 — Forceful Recruitment.png"
 	        }
 	    },
 	    {
@@ -893,7 +893,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW08 — Ruthless Tactician.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW08 — Ruthless Tactician.png"
 	        }
 	    },
 	    {
@@ -902,7 +902,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG03 — Powerful Pilot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG03 — Powerful Pilot.png"
 	        }
 	    },
 	    {
@@ -911,7 +911,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CB04 — Secret Broker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CB04 — Secret Broker.png"
 	        }
 	    },
 	    {
@@ -920,7 +920,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW01 — Evolving Priest.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW01 — Evolving Priest.png"
 	        }
 	    },
 	    {
@@ -929,7 +929,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW09 — Banner of Hope.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW09 — Banner of Hope.png"
 	        }
 	    },
 	    {
@@ -938,7 +938,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW03 — Morale Booster.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW03 — Morale Booster.png"
 	        }
 	    },
 	    {
@@ -947,7 +947,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW05 — Forceful Peacemaker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW05 — Forceful Peacemaker.png"
 	        }
 	    },
 	    {
@@ -956,7 +956,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW06 —Binzy Commander.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW06 —Binzy Commander.png"
 	        }
 	    },
 	    {
@@ -965,7 +965,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW07 — Mark of the Squad.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW07 — Mark of the Squad.png"
 	        }
 	    },
 	    {
@@ -974,7 +974,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU02 — Pride of the Fleet.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU02 — Pride of the Fleet.png"
 	        }
 	    },
 	    {
@@ -983,7 +983,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU05 — Databank Archivist.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU05 — Databank Archivist.png"
 	        }
 	    },
 	    {
@@ -992,7 +992,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU06 — Sewer Scavenger.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU06 — Sewer Scavenger.png"
 	        }
 	    },
 	    {
@@ -1001,7 +1001,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU07 — Focus Fire.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU07 — Focus Fire.png"
 	        }
 	    },
 	    {
@@ -1010,7 +1010,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU08 — See the Eternities.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU08 — See the Eternities.png"
 	        }
 	    },
 	    {
@@ -1019,7 +1019,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU09 — Saw It Coming.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU09 — Saw It Coming.png"
 	        }
 	    },
 	    {
@@ -1028,7 +1028,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB01 — Assault Trooper.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB01 — Assault Trooper.png"
 	        }
 	    },
 	    {
@@ -1037,7 +1037,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB02 — Vitality Scavenger.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB02 — Vitality Scavenger.png"
 	        }
 	    },
 	    {
@@ -1046,7 +1046,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Vampire Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB03 — Sanguine Striker.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB03 — Sanguine Striker.png"
 	        }
 	    },
 	    {
@@ -1055,7 +1055,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB04 — Local Extortioner.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB04 — Local Extortioner.png"
 	        }
 	    },
 	    {
@@ -1064,7 +1064,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB05 — Toxin Chemist.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB05 — Toxin Chemist.png"
 	        }
 	    },
 	    {
@@ -1073,7 +1073,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Vampire Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB06 — Dealer of Whispers.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB06 — Dealer of Whispers.png"
 	        }
 	    },
 	    {
@@ -1082,7 +1082,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Artifact Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB07 — Consumer of Souls.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB07 — Consumer of Souls.png"
 	        }
 	    },
 	    {
@@ -1091,7 +1091,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB08 — Go For The Throat.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB08 — Go For The Throat.png"
 	        }
 	    },
 	    {
@@ -1100,7 +1100,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB09 — Replacement Clone.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB09 — Replacement Clone.png"
 	        }
 	    },
 	    {
@@ -1109,7 +1109,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB11 — Seize an Asset.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB11 — Seize an Asset.png"
 	        }
 	    },
 	    {
@@ -1118,7 +1118,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR01 — Shady Fence.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR01 — Shady Fence.png"
 	        }
 	    },
 	    {
@@ -1127,7 +1127,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR02 — Hoarding Creator.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR02 — Hoarding Creator.png"
 	        }
 	    },
 	    {
@@ -1136,7 +1136,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Minotaur Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR03 — Desperate Gambler.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR03 — Desperate Gambler.png"
 	        }
 	    },
 	    {
@@ -1145,7 +1145,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Monkey ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR04 — Powder Monkey.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR04 — Powder Monkey.png"
 	        }
 	    },
 	    {
@@ -1154,7 +1154,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Artifact Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR05 — Slag Eater.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR05 — Slag Eater.png"
 	        }
 	    },
 	    {
@@ -1163,7 +1163,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR06 —  Asteroid Wurm.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR06 —  Asteroid Wurm.png"
 	        }
 	    },
 	    {
@@ -1172,7 +1172,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Alien Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR07 — Cargo Keeper.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR07 — Cargo Keeper.png"
 	        }
 	    },
 	    {
@@ -1181,7 +1181,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR08 — Firestorm Reactor.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR08 — Firestorm Reactor.png"
 	        }
 	    },
 	    {
@@ -1190,7 +1190,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR09 — Big Red Button.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR09 — Big Red Button.png"
 	        }
 	    },
 	    {
@@ -1199,7 +1199,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR11 — Shield of Retribution.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR11 — Shield of Retribution.png"
 	        }
 	    },
 	    {
@@ -1208,7 +1208,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG01 — Tactical Flyboy.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG01 — Tactical Flyboy.png"
 	        }
 	    },
 	    {
@@ -1217,7 +1217,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG02 — Corsair Ambusher.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG02 — Corsair Ambusher.png"
 	        }
 	    },
 	    {
@@ -1226,7 +1226,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG03 — Maker of the Fittest.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG03 — Maker of the Fittest.png"
 	        }
 	    },
 	    {
@@ -1235,7 +1235,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG04 — Mentor of Many.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG04 — Mentor of Many.png"
 	        }
 	    },
 	    {
@@ -1244,7 +1244,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG05 — Imposing Cultivator.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG05 — Imposing Cultivator.png"
 	        }
 	    },
 	    {
@@ -1253,7 +1253,7 @@
 	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG06 — Adapting Killer.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG06 — Adapting Killer.png"
 	        }
 	    },
 	    {
@@ -1262,7 +1262,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Artifact Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG07 — Burrowing Ship.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG07 — Burrowing Ship.png"
 	        }
 	    },
 	    {
@@ -1271,7 +1271,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Alien Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG08 — Beloved Captain.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG08 — Beloved Captain.png"
 	        }
 	    },
 	    {
@@ -1280,7 +1280,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG09 — Uneasy Alliance.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG09 — Uneasy Alliance.png"
 	        }
 	    },
 	    {
@@ -1289,7 +1289,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW12 — Smokescreen.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW12 — Smokescreen.png"
 	        }
 	    },
 	    {
@@ -1298,7 +1298,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU10 — Gin Sees Beyond.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU10 — Gin Sees Beyond.png"
 	        }
 	    },
 	    {
@@ -1307,7 +1307,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UB12 — Corporate Espionage.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UB12 — Corporate Espionage.png"
 	        }
 	    },
 	    {
@@ -1316,7 +1316,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UR12 — Scoundrel's Blast.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UR12 — Scoundrel's Blast.png"
 	        }
 	    },
 	    {
@@ -1325,7 +1325,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UG12 — Performance Enhancers.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UG12 — Performance Enhancers.png"
 	        }
 	    },
 	    {
@@ -1334,7 +1334,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact Creature — Thopter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA04 — Replicating Thopter.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA04 — Replicating Thopter.png"
 	        }
 	    },
 	    {
@@ -1343,7 +1343,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA01 — Sentry Scooter.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA01 — Sentry Scooter.png"
 	        }
 	    },
 	    {
@@ -1352,7 +1352,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact Creature — Construct Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA03 — Confederation Enforcers.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA03 — Confederation Enforcers.png"
 	        }
 	    },
 	    {
@@ -1361,7 +1361,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA09 — Otira Industries Exo-Suit.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA09 — Otira Industries Exo-Suit.png"
 	        }
 	    },
 	    {
@@ -1370,7 +1370,7 @@
 	        "mana_cost": "{8}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA08 — The Clan Council.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA08 — The Clan Council.png"
 	        }
 	    },
 	    {
@@ -1379,7 +1379,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA07 — Restless Forge.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA07 — Restless Forge.png"
 	        }
 	    },
 	    {
@@ -1388,7 +1388,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA02 — Construction Skiff.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA02 — Construction Skiff.png"
 	        }
 	    },
 	    {
@@ -1397,7 +1397,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA05 — Access Datapad.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA05 — Access Datapad.png"
 	        }
 	    },
 	    {
@@ -1406,7 +1406,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA10 — Neural Interface.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA10 — Neural Interface.png"
 	        }
 	    },
 	    {
@@ -1415,7 +1415,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM06 — Jeer, Inspired Engineer.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM06 — Jeer, Inspired Engineer.png"
 	        }
 	    },
 	    {
@@ -1424,7 +1424,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM04 — Recruiting Drive.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM04 — Recruiting Drive.png"
 	        }
 	    },
 	    {
@@ -1433,7 +1433,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM05 — Last of the Rats.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM05 — Last of the Rats.png"
 	        }
 	    },
 	    {
@@ -1442,7 +1442,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM03 — Training Matrix.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM03 — Training Matrix.png"
 	        }
 	    },
 	    {
@@ -1451,7 +1451,7 @@
 	        "mana_cost": "{1}{W}{U}{U}",
 	        "type": "Legendary Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM01 — Archbishop Li Teain.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM01 — Archbishop Li Teain.png"
 	        }
 	    },
 	    {
@@ -1460,7 +1460,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Legendary Creature — Elf Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM09 — Laz, The Traitor.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM09 — Laz, The Traitor.png"
 	        }
 	    },
 	    {
@@ -1469,7 +1469,7 @@
 	        "mana_cost": "{2}{G}{U}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM07 — Test Pilot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM07 — Test Pilot.png"
 	        }
 	    },
 	    {
@@ -1478,7 +1478,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM08 — Reckless Killer.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM08 — Reckless Killer.png"
 	        }
 	    },
 	    {
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Legendary Creature — Human Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UM10 — Captain Wen O'Malli.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UM10 — Captain Wen O'Malli.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/Plains.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/Plains.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/Island.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/Island.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/Swamp.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/Mountain.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/Forest.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/Forest.png"
 	        }
 	    },
 	    {
@@ -1541,7 +1541,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CW17 — Nanomachines.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CW17 — Nanomachines.png"
 	        }
 	    },
 	    {
@@ -1550,7 +1550,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU03 — Inspired Inventor.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU03 — Inspired Inventor.png"
 	        }
 	    },
 	    {
@@ -1559,7 +1559,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU08 — Self-Learning Titan.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU08 — Self-Learning Titan.png"
 	        }
 	    },
 	    {
@@ -1568,7 +1568,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU16 — Flash of Genius.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU16 — Flash of Genius.png"
 	        }
 	    },
 	    {
@@ -1577,7 +1577,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU18 — Oathkeeper Protector.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU18 — Oathkeeper Protector.png"
 	        }
 	    },
 	    {
@@ -1586,7 +1586,16 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CU17 — Spark of Knowledge.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CU17 — Spark of Knowledge.png"
+	        }
+	    },
+	    {
+	        "name": "RA05 — Tunther's Landing",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/RA05 — Tunther's Landing.png"
 	        }
 	    },
 	    {
@@ -1595,7 +1604,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CG13 — Initate's Growth.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CG13 — Initate's Growth.png"
 	        }
 	    },
 	    {
@@ -1604,7 +1613,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR07 — Unstable Prototype.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR07 — Unstable Prototype.png"
 	        }
 	    },
 	    {
@@ -1613,7 +1622,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR09 — Mad Inventor.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR09 — Mad Inventor.png"
 	        }
 	    },
 	    {
@@ -1622,7 +1631,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR04 — Rampage Robot.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR04 — Rampage Robot.png"
 	        }
 	    },
 	    {
@@ -1631,7 +1640,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR18 — Living Node.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR18 — Living Node.png"
 	        }
 	    },
 	    {
@@ -1640,7 +1649,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR12 — Spark of Passion.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR12 — Spark of Passion.png"
 	        }
 	    },
 	    {
@@ -1649,7 +1658,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/CR15 — Sudden Airstrike.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/CR15 — Sudden Airstrike.png"
 	        }
 	    },
 	    {
@@ -1658,7 +1667,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UU12 — Mana Disconnection.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UU12 — Mana Disconnection.png"
 	        }
 	    },
 	    {
@@ -1667,7 +1676,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UA06 — Scrapyard Scavenger.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UA06 — Scrapyard Scavenger.png"
 	        }
 	    },
 	    {
@@ -1676,7 +1685,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Artifact Creature — Angel Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW08 — Serrated Angel.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW08 — Serrated Angel.png"
 	        }
 	    },
 	    {
@@ -1685,16 +1694,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW02 — Omniscent Overseer.png"
-	        }
-	    },
- 	    {
-	        "name": "RA05 — Tunther's Landing",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Legendary Land",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/RA05 — Tunther's Landing.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW02 — Omniscent Overseer.png"
 	        }
 	    },
 	    {
@@ -1703,12 +1703,12 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-UC-PT-1-export-cockatrice-files/UW04 — Protective Quartermaster.png"
+	            "en": "https://raw.githubusercontent.com/SchatzFired/ZTL-1/main/ZTL-V2-C-files/UW04 — Protective Quartermaster.png"
 	        }
 	    }
 	]
 	[RareSlot(1)]
-		50 RA05 - Tunther's Landing
+		50 RA05 — Tunther's Landing
 	[UncommonSlot(4)]
 		50 UU01 —  All-Seeing Acolyte
 		50 UU04 — Watcher of Many Minds
